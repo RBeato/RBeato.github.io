@@ -69616,7 +69616,7 @@ $.acl=null
 $.aw3=A.B(t.S,A.N("aEN"))
 $.ap8=null
 $.Rs=function(){var s=t.bD
-return A.b_(["FLUTTER","assets/skills_icons/flutter_logo.svg","DART","assets/skills_icons/dart_logo.svg","ETHEREUM","assets/skills_icons/ethereum_logo.svg","SOLIDITY","assets/skills_icons/solidity_logo.svg","Python","assets/skills_icons/python_logo.svg","C++","assets/skills_icons/c++_logo.svg","HTML","assets/skills_icons/html_logo.svg","CSS","assets/skills_icons/css_logo.svg","Bootstrap","assets/skills_icons/bootstrap_logo.svg"],s,s)}()})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy,q=hunkHelpers.lazyOld
+return A.b_(["FLUTTER","assets/skills_icons/flutter_logo.svg","DART","assets/skills_icons/dart_logo.svg","ETHEREUM","assets/skills_icons/ethereum_logo.svg","SOLIDITY","assets/skills_icons/solidity_logo.svg","Python","assets/skills_icons/python_logo.svg"],s,s)}()})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy,q=hunkHelpers.lazyOld
 s($,"aHu","aiJ",()=>new A.a06(A.B(t.N,t._8),A.B(t.S,t.Q)))
 s($,"aGb","ch",()=>A.aC5(A.BJ().navigator.vendor,J.ajJ(A.BJ().navigator.userAgent)))
 s($,"aGK","eg",()=>A.aC6())
