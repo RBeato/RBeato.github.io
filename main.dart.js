@@ -64481,8 +64481,8 @@ A.kE("WIDTH: "+A.c(s))
 if(o.c===B.cT){A.kE("got in mobilde projects")
 r=s<800?680:null
 if(s>=800&&s<900)r=750
-if(s>=900&&s<1120)r=800
-if(s>=1120&&s>1200)r=400}else r=s>=1200?300:450
+if(s>=900&&s<1120)r=700
+if(s>=1120&&s>1200)r=600}else r=s>=1200?300:450
 q=A.bM(0,0,5)
 q=A.auJ(!0,A.bM(0,800,0),B.bp,q,!1,!0,r)
 p=$.T
@@ -64652,7 +64652,7 @@ A.Ha.prototype={
 F(a,b){var s=null
 return A.bf(s,new A.fR(new A.a0w(this,900),s),s,s,s,s,s,s,s)}}
 A.a0w.prototype={
-$2(a,b){var s,r,q,p,o=null,n=a.J(t.w).f,m=b.b>this.b,l=m?B.a3:B.X,k=m?1:0,j=this.a,i=j.c,h=$.tk()[i],g=m?700:375
+$2(a,b){var s,r,q,p,o=null,n=a.J(t.w).f,m=b.b>this.b,l=m?B.a3:B.X,k=m?1:0,j=this.a,i=j.c,h=$.tk()[i],g=m?650:375
 k=A.uM(new A.cb(B.Bo,A.F6(h.a,g),o),k)
 m=m?1:0
 h=A.cq(h.b,A.ej(B.aP,16,B.ae,o,o),o,o)
